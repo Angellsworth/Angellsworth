@@ -2,7 +2,7 @@
 Welcome to my little corner of the internet where **code meets caffeine**, and **haircuts meet HTML.**  
 ---
 
-## 💻 What I Do (When I’m Not Debugging Life)  
+## 💻 What I Do 
 I’m a **MERN stack developer** + **barber** + **mother** + **women-in-tech hype person.**  
 I love helping with **Tech Moms** when I can, work on **cool projects** and spend way too much time **figuring out why my CSS isn’t working.**  
 
