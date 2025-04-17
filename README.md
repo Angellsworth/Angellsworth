@@ -57,4 +57,7 @@ I love helping with **Tech Moms** when I can, work on **cool projects** and spen
 
 
 ## Okay, Now What?  
-If you read this far, **you’re super cool or really bored.** Either way, Hey! let’s be friends. 💛  
+If you read this far, **you’re super cool or really bored.** Either way, Hey! let’s be friends. 🌈 
+
+                👩🏽‍🤝‍👨🏼👨🏻‍🤝‍👨🏿👩🏾‍🤝‍👩🏼👨🏽‍🤝‍👨🏽👩🏻‍🤝‍👩🏽👨🏼‍🤝‍👨🏻  
+**Let’s make the internet a softer place to land.**
