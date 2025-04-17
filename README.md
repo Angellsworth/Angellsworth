@@ -1,67 +1,67 @@
-# Hey, I'm Angela! 👋✨  
-Welcome to my little corner of the internet where **code meets caffeine**, and **haircuts meet HTML.**  
+# Hey, I'm Angela 🧙🏽‍♀️🌿✨  
+Welcome to my little corner of the internet — where **code meets caffeine**, and **haircuts meet HTML** in a cloud of lavender-scented magic.
+
 ---
 
-## 💻 What I Do 
-I’m a **MERN stack developer** + **barber** + **mother** + **women-in-tech hype person.**  
-I love helping with **Tech Moms** when I can, work on **cool projects** and spend way too much time **figuring out why my CSS isn’t working.**  
+## 💻 What I Do  
+I’m a **MERN stack developer**, **barber**, **mother**, and unapologetic **women-in-tech hype witch**.  
+I support **Tech Moms**, build cool things, and routinely yell at my CSS like it’s a haunted mirror.
 
-✨ I’m here for **magical code, good people, and making tech more accessible for women.**   
+✨ I’m here for **accessible tech, soft community, and bringing more women into dev spaces** — because we’ve always belonged here.
 
 ---
 
 ## 🛠️ Things I Actually Know How to Use  
 - **Front-End:** React, HTML, CSS, JavaScript  
-- **Back-End:** Node.js, Express, MongoDB  
+- **Back-End:** Node.js, Express, MongoDB, Django  
+- **Programming Languages:** JavaScript, Python, SQL  
 - **Other Cool Stuff:** Git, APIs, EJS, Handlebars  
-- **Hidden Talent:** I love helping when someone needs encouragement, a pep talk, or just a safe space to be themselves. 
+- **Hidden Power:** Creating safe spaces, hyping you up, and debugging with emotional support snacks.
 
 ---
 
-## 🧷 Tech Stack & Tools
+## 🔮 Tech Stack & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎯 Currently Leveling Up
-
-![Learning Django](https://img.shields.io/badge/Learning-Django-00BFFF?style=flat-square&logo=django&logoColor=white)
-![Mastering SQL](https://img.shields.io/badge/Challenging-MySQL-Sienna?style=flat-square&logo=mysql&logoColor=white)
-![Trying Not To Cry Over CSS](https://img.shields.io/badge/CSS-Still%20Doing%20Me%20Dirty-blueviolet?style=flat-square)
----
-
-## ⚡ Random Angela Facts  
-💈 Spent **20+ years as a cosmetologist** before switching to tech. Now I shape up **code instead of hair.**  
-🛠️ I believe in **fixing things**—whether it’s bad JavaScript, uneven bangs, or gender gaps in tech.    
-💡 I have **planted lavender** 🌿 at every house I’ve lived in. It’s **symbolic of home** for me.
+![React](https://img.shields.io/badge/React-6e40c9?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-375e54?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2e5c50?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1b1e1d?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4b8bbe?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-917cfa?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-8b3dff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-6a0dad?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7733ff?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4f5d75?style=for-the-badge&logo=postgresql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-5c5470?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Wanna Connect?  
-📩 **Let's chat!** Find me here:  
-- **[LinkedIn](https://www.linkedin.com/in/angela-ellsworth/)** – Where I pretend to be professional   
-- **Portfolio (Coming Soon)** – I promise it’ll be cool  
+## 🌱 Currently Growing Through
+
+![Learning Django](https://img.shields.io/badge/Learning-Django-8e44ad?style=flat-square&logo=django&logoColor=white)
+![Mastering SQL](https://img.shields.io/badge/Challenging-MySQL-5d3a9b?style=flat-square&logo=mysql&logoColor=white)
+![Emotional Support CSS](https://img.shields.io/badge/CSS-Is%20Gaslighting%20Me-purple?style=flat-square)
 
 ---
 
+## ⚡ Random Angela Lore  
+💈 I spent **20+ years as a cosmetologist** before switching to tech. Now I shape up **code instead of bangs**.  
+🛠️ I believe in **fixing broken things** — whether it’s JavaScript, systems, or someone’s confidence.  
+🌿 I’ve planted **lavender at every home** I’ve lived in. It's how I know I belong.
 
-## 🌟 Okay, Now What?
+---
 
-If you’ve made it this far, you’re either **super cool**, **really bored**, or **secretly rooting for me**.  
-Whatever the reason — *I see you, and I’m glad you’re here.* 💜
+## 🌐 Wanna Connect?  
+📫 **Let’s talk code, pivots, and purpose:**  
+- [LinkedIn](https://www.linkedin.com/in/angela-ellsworth/) – Where I look professional but still me  
+
+---
+
+## 🌈 Okay, Now What?  
+
+If you’ve made it this far, you’re either **seriously curious** or **just vibing with me** — and either way, I’m here for it.
 
 👩🏽‍🤝‍👨🏼 👨🏻‍🤝‍👨🏿 👩🏾‍🤝‍👩🏼 👨🏽‍🤝‍👨🏽 👩🏻‍🤝‍👩🏽 👨🏼‍🤝‍👨🏻  
 **This space is for everyone — especially the ones who’ve been told they don’t belong.**
 
-Let’s make the internet a softer place to land.
+Let’s make the internet a softer place to land. 💜
