@@ -56,8 +56,12 @@ I love helping with **Tech Moms** when I can, work on **cool projects** and spen
 ---
 
 
-## Okay, Now What?  
-If you read this far, **you’re super cool or really bored.** Either way, Hey! let’s be friends. 🌈 
+## 🌟 Okay, Now What?
 
-                👩🏽‍🤝‍👨🏼👨🏻‍🤝‍👨🏿👩🏾‍🤝‍👩🏼👨🏽‍🤝‍👨🏽👩🏻‍🤝‍👩🏽👨🏼‍🤝‍👨🏻  
-**Let’s make the internet a softer place to land.**
+If you’ve made it this far, you’re either **super cool**, **really bored**, or **secretly rooting for me**.  
+Whatever the reason — *I see you, and I’m glad you’re here.* 💜
+
+👩🏽‍🤝‍👨🏼 👨🏻‍🤝‍👨🏿 👩🏾‍🤝‍👩🏼 👨🏽‍🤝‍👨🏽 👩🏻‍🤝‍👩🏽 👨🏼‍🤝‍👨🏻  
+**This space is for everyone — especially the ones who’ve been told they don’t belong.**
+
+Let’s make the internet a softer place to land.
